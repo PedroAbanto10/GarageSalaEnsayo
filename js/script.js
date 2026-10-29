@@ -4,8 +4,8 @@
 const CONFIG = {
   whatsapp: '51955475301',            // número con código de país, sin + ni espacios
   whatsappTexto: '+51 955 475 301',   // cómo se muestra en pantalla
-  email: 'eventixperu@gmail.com',
-  facebook: 'https://www.facebook.com/' // pon aquí el enlace de tu página de Facebook
+  email: 'ensayosgarage@gmail.com',
+  facebook: 'https://www.facebook.com/ensayosgarage/' // pon aquí el enlace de tu página de Facebook
 };
 
 document.addEventListener('DOMContentLoaded', () => {
